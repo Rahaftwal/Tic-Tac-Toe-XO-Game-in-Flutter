@@ -17,15 +17,6 @@ This game was developed using Flutter with a structured approach based on three 
 ## 🚀 Onboarding Feature
 The onboarding feature enhances the user experience by providing a **clear introduction**, making the game **intuitive** and **accessible** for new players.
 
----
-
-## 🔧 Installation
-To run the app, follow these steps:
-```sh
-flutter pub get
-flutter run
-```
-
 ## 📌 Features
 - ✅ Single-player with **AI opponent**
 - ✅ **Three difficulty levels**
