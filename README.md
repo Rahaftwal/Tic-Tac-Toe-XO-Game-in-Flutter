@@ -28,4 +28,4 @@ The onboarding feature enhances the user experience by providing a **clear intro
 
 
 
-Designed and developed by **Rahaf**
+Designed and developed by **Rahaf Twal**
